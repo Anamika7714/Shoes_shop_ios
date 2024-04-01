@@ -1,1 +1,11 @@
-# Shoes_shop_ios
+# Shoes_shop_ios![Screenshot 2024-04-01 at 10 10 46 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/76a9e52d-1c64-49f6-be28-10664e4a8815)
+![Screenshot 2024-04-01 at 10 11 24 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/48b626b4-cb8d-4330-95c2-132249cc8ca6)![Screenshot 2024-04-01 at ![Screenshot 2024-04-01 at 10 12 29 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/bc548265-8c58-44f7-949e-2477237fec67)
+10 11 56 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/f47d80ec-ed2b-4b83-89e0-de2af05118de)
+
+![Screenshot 2024-04-01 at 10 12 51 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/a52b85c6-10c1-4d1e-885d-3929507ca871)
+![Screenshot 2024-04-01 at 10 13 15 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/1a8aef2b-6de3-4f60-a2b1-5e7e107433a3)
+![Screenshot 2024-04-01 at 10 13 34 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/4aca1139-5d25-40d4-ac25-21aed3c411c1)
+![Screenshot 2024-04-01 at 10 13 50 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/b3df66ec-8da2-45d8-b763-8d78b0e1e3eb)
+![Screenshot 2024-04-01 at 10 14 43 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/394d7304-13c6-42e9-b72c-ebf7e44cac75)
+![Screenshot 2024-04-01 at 10 15 07 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/7703ada7-a394-4a54-92f0-32e672c120ee)
+![Screenshot 2024-04-01 at 10 15 32 AM](https://github.com/Anamika7714/Shoes_shop_ios/assets/165629988/d2dbc40e-de67-4135-8e4e-939c81b66e47)
